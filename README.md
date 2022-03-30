@@ -4,6 +4,10 @@
 
 - 🔭 Currently working at [UNOESC](https://www.unoesc.edu.br/)
 
+- 👨‍💻 Trying to learn a lot of things!
+
+![Flutter](http://flutter-badge.zaynjarvis.com/version/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
+
 ## &nbsp;Social Links
 
 <p align="left" style="background:yellow">
