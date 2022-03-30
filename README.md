@@ -15,20 +15,22 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 
 ## &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-
-<a href="https://www.linkedin.com/in/renan-silveira-281775189/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-rec_silveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  <p>
   <a href="https://www.instagram.com/rec_silveira/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-rec_silveira-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+  ![Instagram](https://img.shields.io/badge/<rec_silveira>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+  </a>
+  <a href="https://www.linkedin.com/in/renan-silveira-281775189/" target="_blank">
+  ![LinkedIn](https://img.shields.io/badge/renan-silveira-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  </a>
 
 </p>
 
