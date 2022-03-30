@@ -29,8 +29,7 @@
 <a href="https://www.instagram.com/rec_silveira/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/rec_silveira-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="codepen"/>
 </a>
-  <p>
-    <a href="https://www.linkedin.com/in/renan-silveira-281775189/" target="_blank">
+<a href="https://www.linkedin.com/in/renan-silveira-281775189/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/renan_silveira-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="codepen"/>
 </a>
 
