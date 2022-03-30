@@ -26,7 +26,7 @@
 ## &nbsp;Social Links
 
   
-  <a href="https://www.instagram.com/rec_silveira/" target="_blank">
+<a href="https://www.instagram.com/rec_silveira/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/rec_silveira-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="codepen"/>
 </a>
   <p>
