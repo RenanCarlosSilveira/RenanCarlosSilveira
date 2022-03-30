@@ -10,9 +10,8 @@
 
 <a href="https://www.linkedin.com/in/renan-silveira-281775189/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-rec_silveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-
-
-<a href="https://www.instagram.com/rec_silveira/" target="_blank">
+  <p>
+  <a href="https://www.instagram.com/rec_silveira/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-rec_silveira-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 
