@@ -26,10 +26,10 @@
 ## &nbsp;Social Links
 
   <!--<a href="https://www.instagram.com/rec_silveira/" target="_blank">-->
-  ![Instagram](https://img.shields.io/badge/<rec_silveira>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+  ![Instagram](https://img.shields.io/badge/rec_silveira-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
   
-  <!--<a href="https://www.linkedin.com/in/renan-silveira-281775189/" target="_blank">-->
-  ![LinkedIn](https://img.shields.io/badge/renan-silveira-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+  <a href="https://www.linkedin.com/in/renan-silveira-281775189/" target="_blank">
+  ![LinkedIn](https://img.shields.io/badge/renan-sil-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **RenanCarlosSilveira/RenanCarlosSilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
