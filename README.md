@@ -7,7 +7,7 @@
 - 👨‍💻 Trying to learn a lot of things!
 
 
-## 🛠 &nbsp;Tech Stack
+## &nbsp;Tech
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
