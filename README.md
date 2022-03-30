@@ -6,7 +6,7 @@
 
 - 👨‍💻 Trying to learn a lot of things!
 
-![Flutter](http://flutter-badge.zaynjarvis.com/version/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
+[![Flutter](http://flutter-badge.zaynjarvis.com/version/{PackageName})](https://pub.dartlang.org/packages/{PackageName})
 
 ## &nbsp;Social Links
 
